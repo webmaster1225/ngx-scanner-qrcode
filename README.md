@@ -2,7 +2,6 @@
 
 This library is built to provide a solution scanner QR code.\
 This library takes in raw images and will locate, extract and parse any QR code found within.\
-This demo [Github](https://id1945.github.io/ngx-scanner-qrcode), [Stackblitz](https://stackblitz.com/edit/angular-ngx-scanner-qrcode).
 
 ![Logo](https://raw.githubusercontent.com/id1945/ngx-scanner-qrcode/master/ngx-scanner-qrcode.png)
 
@@ -392,42 +391,3 @@ interface ScannerQRCodeSelectedFiles {
     <td>1.7.2</td>
   </tr>
 </table>
-
-#### Author Information
-  
-<table>
-  <tr>
-    <th colspan="2">Author Information</th>
-  </tr>
-  <tr>
-    <td>Author</td>
-    <td>DaiDH</td>
-  </tr>
-  <tr>
-    <td>Phone</td>
-    <td>+84845882882</td>
-  </tr>
-  <tr>
-    <td>Country</td>
-    <td>Vietnam</td>
-  </tr>
-</table>
-
-#### To make this library more complete, please donate to me if you can!
-
-<table>
-  <tr>
-    <th>Bitcoin</th>
-    <th>Paypal</th>
-    <th>MbBank</th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/id1945/id1945/master/donate-bitcoin.png" width="182px"></td>
-    <td><img src="https://raw.githubusercontent.com/id1945/id1945/master/donate-paypal.png" width="182px"></td>
-    <td><img src="https://raw.githubusercontent.com/id1945/id1945/master/donate-mbbank.png" width="182px"></td>
-  </tr>
-</table>
-
-![Vietnam](https://raw.githubusercontent.com/id1945/id1945/master/vietnam.gif)
-
-[LGPL-2.1+ License](https://github.com/id1945/ngx-scanner-qrcode/blob/master/LICENSE). Copyright (C) 1991, 1999 Free Software Foundation, Inc.
